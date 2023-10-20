@@ -16,7 +16,7 @@ Spend time looking at other developer’s portfolios. Submit the links to three 
 
 GitHub is an important asset for all developers as it serves as storage for your code as well as a portfolio.
 
-- [ ] add a profile picture to your GitHub account. A GitHub profile picture does not have to be an actual picture of your face but it should represent your brand as a developer.
+- [✅] add a profile picture to your GitHub account. A GitHub profile picture does not have to be an actual picture of your face but it should represent your brand as a developer.
 
 
 ### LinkedIn
