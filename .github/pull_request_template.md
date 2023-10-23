@@ -4,11 +4,11 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Career Readiness
-- [ ] Coding Challenges
-- [ ] Coding Critique
-- [ ] Coding Concepts
-- [ ] Interview Questions
+- [✅] Career Readiness
+- [✅] Coding Challenges
+- [✅] Coding Critique
+- [✅] Coding Concepts
+- [✅] Interview Questions
 
 ### ✋ Reminder
 
